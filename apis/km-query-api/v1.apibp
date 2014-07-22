@@ -1,0 +1,61 @@
+---
+
+---
+# KM Query API
+
+# POST /v1/products/{product_guid}/reports/optimization
++ Response 202 (text/json)
++ Response 400 (text/json)
+
++ Parameters
+  + product_guid (required, string, `0e2ed310-0e7d-0131-0caa-22000a9f1c0f`) ... A product unique identifier
+  + start_date (required, unix timestamp, ``) ... A start date for the report
+  + end_date (required, unix timestamp, ``) ... An end date for the report
+  + conversion_event_index (required, event, `Delete`) ... An event to
+    conduct an experiment on
+  + variation_property_index (required, experiment, `alert me`) ... An
+    experiment to perform on the conversion event index
+
+# GET  /v1/products/{product_guid}/reports/branched-funnel
++ Response 202 (text/json)
+
+# POST /v1/products/{product_guid}/reports/branched-funnel
++ Response 202 (text/json)
+
++ Parameters
+  + root_node (required, node, ``) ... A reference to a root node
+  + start_ts (required, thing, ``) ... A time series start
+  + end_ts (required, thing, ``) ... A time series start
+
+# POST /v1/reports/{report_guid}/run
++ Response 202 (text/json)
+    {"success":true,"query_guid":"c795ef67-dad4-410f-8305-be0172e588b2"}
++ Response 404 (text/json)
+    {"message":"Invalid report_guid provided: report not found.","error":"Not Found","status":404}
+# GET  /v1/queries/{query_guid}/completed{?api_key}
++ Response 200 (text/json)
+    { "success": true }
+
++ Parameters
+    + query_guid (required, uuid, `1a31bcfe-0c6a-4671-811b-726e4c72600e`) ... A  unique identifier for a particular saved report
+    + api_key (required, uuid, `24c25c899a65e1ad4bb9b9e669b8741742659203f3152c204a78f50eb174eb4b`) ... An API token given by kissmetrics
+
+# GET  /v1/queries/{query_guid}/status
++ Response 200 (text/json)
+    {"completed":false,"progress":0.4}
++ Response 201 (text/json)
+    {"completed":true,"progress":1.0, "location": "/v1/queries/1a31bcfe-0c6a-4671-811b-726e4c72600e/results?api_key=24c25c899a65e1ad4bb9b9e522b8741742659203f3152c204a78f50eb174eb4b"}
++ Response 500 (text/json)
+    {"error":"Query failed", "message":"There was an error executing your query."}
++ Parameters
+    + query_guid (required, uuid, `1a31bc2d-0c6a-4671-811b-726e4c72600e`) ... A simple unique identifier for a particular saved report
+
+# GET  /v1/queries/{query_guid}/results
++ Response 200 (text/json)
+{"total":4396,"links":[{"rel":"first","href":"http://localhost:8080/v1/queries/9a870bf7-f341-4ac2-a619-322585678e17/results?api_key=24c25c899a65e1ad4bb9b9e522b8741742659203f3152c204a78f50eb174eb4b\u0026limit=50\u0026offset=0"},{"rel":"last","href":"http://localhost:8080/v1/queries/9a870bf7-f341-4ac2-a619-322585678e17/results?api_key=24c25c899a65e1ad4bb9b9e522b8741742659203f3152c204a78f50eb174eb4b\u0026limit=50\u0026offset=4300"},{"rel":"self","href":"http://localhost:8080/v1/queries/9a870bf7-f341-4ac2-a619-322585678e17/results?api_key=24c25c899a65e1ad4bb9b9e522b8741742659203f3152c204a78f50eb174eb4b\u0026limit=50\u0026offset=0"},{"rel":"next","href":"http://localhost:8080/v1/queries/9a870bf7-f341-4ac2-a619-322585678e17/results?api_key=24c25c899a65e1ad4bb9b9e522b8741742659203f3152c204a78f50eb174eb4b\u0026limit=50\u0026offset=50"}],"metadata":{"limit":50,"offset":0},"columns":[{"display_name":"KMID","type":"internal","return_option":"internal","display_return_option":"internal"},{"display_name":"Person","type":"internal","return_option":"internal","display_return_option":"internal"},{"display_return_option":"Total Times for Date Range","display_name":"Commented","type":"event","return_option":"total_times"},{"display_return_option":"Total Times for Date Range","display_name":"Tweet","type":"event","return_option":"total_times"},{"display_return_option":"Date of Last Time for Date Range","display_name":"Tweet","type":"event","return_option":"last"}],"rows":[[6998481,"zzforumszz@gmail.com",0,0,null],[8054593,"zoltan.magyar@palisis.com",0,0,null],[4872227,"zol@percolatestudio.com",0,0,null],[6488831,"zo@zobabe.com",0,0,null],[5859290,"zmihaly@gmail.com",0,0,null],[6698772,"zlatko.calusic@iskon.hr",0,0,null],[5078607,"zkordovin@mail.ru",0,0,null],[7188968,"zimmey@gmail.com",0,0,null],[8299265,"zihangtee@gmail.com",0,0,null],[6167613,"zicoxx@gmail.com",0,0,null],[4142713,"zicasso-dev@hook42.com",0,0,null],[7759518,"zetkasprzyk@gmail.com",0,0,null],[5973132,"zestos@gmail.com",0,0,null],[5951370,"zenithx9@gmail.com",0,0,null],[1718442,"zdk1968@pingdom.com",0,0,null],[7350482,"zaza.jachvadze@gmail.com",0,0,null],[8123190,"zanitete@gmail.com",0,0,null],[6395693,"zane34@yahoo.com.sg",0,0,null],[3678320,"zalvaleon@yahoo.cl",0,0,null],[8181550,"zalanlima@yahoo.com.br",0,0,null],[4115890,"zacky@pingdom.com",0,0,null],[6525420,"zachery@freezurbern.com",0,0,null],[8135159,"zachary@savtrans.com",0,0,null],[7790743,"zach@siouxfallssoftware.com",0,0,null],[2819612,"zach@gtrot.com",0,0,null],[5103088,"zach@dgm-usa.com",0,0,null],[4465518,"zach.rogers@eastexcrude.com",0,0,null],[5225537,"zacgross@gmail.com",0,0,null],[5740628,"z.fallahnejad@gmail.com",0,0,null],[1772860,"yy99@mail.ru",0,0,null],[7896100,"yuliamccarthy@me.com",0,0,null],[6993298,"yuenjackson@live.com",0,0,null],[8107214,"ysolimantech@gmail.com",0,0,null],[8107213,"ysoliman@year7latin.com",0,0,null],[7137357,"ysar@ficcentral.com",0,0,null],[4557478,"yourbuddybrent@hotmail.com",0,0,null],[7918389,"yoshtestartest@pingdom.com",0,0,null],[7475849,"yosh@yosh.se",0,0,null],[5041333,"yosh+iphone_auth@pingdom.com",0,0,null],[8093580,"yosh+123456@pingdom.com",0,0,null],[5067462,"yosh+123456789qwerty@pingdom.com",0,0,null],[5215009,"yoni@medwow.com",0,0,null],[4773393,"yoni.goldblat@medwow.com",0,0,null],[2979756,"yogeshnagarur@gmail.com",0,0,null],[1723765,"yoda748@gmail.com",0,0,null],[3785590,"yet@gmx.de",0,0,null],[2174441,"yehuda.perelview@gmail.com",0,0,null],[6217743,"year1973@yandex.ru",0,0,null],[8045642,"yasutakasato@gmail.com",0,0,null],[5236634,"yaron@touchbase.it",0,0,null]]}
+
++ Response 409 (text/json)
+    { error: "Query results aren't ready yet." }
+
++ Parameters
+    + query_guid (required, uuid, `1a31bc2d-0c6a-4671-811b-726e4c72600e`) ... A simple unique identifier for a particular saved report
