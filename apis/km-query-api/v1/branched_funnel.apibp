@@ -1,0 +1,14 @@
+---
+---
+# KM Query API
+
+# GET  /v1/products/{product_guid}/reports/branched-funnel
++ Response 202 (text/json)
+
+# POST /v1/products/{product_guid}/reports/branched-funnel
++ Response 202 (text/json)
+
++ Parameters
+  + root_node (required, node, ``) ... A reference to a root node
+  + start_ts (required, thing, ``) ... A time series start
+  + end_ts (required, thing, ``) ... A time series start

@@ -1,0 +1,9 @@
+---
+---
+# KM Query API
+
+# POST /v1/reports/{report_guid}/run
++ Response 202 (text/json)
+    {"success":true,"query_guid":"c795ef67-dad4-410f-8305-be0172e588b2"}
++ Response 404 (text/json)
+    {"message":"Invalid report_guid provided: report not found.","error":"Not Found","status":404}

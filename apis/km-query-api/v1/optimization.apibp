@@ -1,0 +1,16 @@
+---
+---
+# KM Query API
+
+# POST /v1/products/{product_guid}/reports/optimization
++ Response 202 (text/json)
++ Response 400 (text/json)
+
++ Parameters
+  + product_guid (required, string, `0e2ed310-0e7d-0131-0caa-22000a9f1c0f`) ... A product unique identifier
+  + start_date (required, unix timestamp, ``) ... A start date for the report
+  + end_date (required, unix timestamp, ``) ... An end date for the report
+  + conversion_event_index (required, event, `Delete`) ... An event to
+    conduct an experiment on
+  + variation_property_index (required, experiment, `alert me`) ... An
+    experiment to perform on the conversion event index
