@@ -3,13 +3,15 @@ module Jekyll
 
     def generate(site)
       converter = site.converters.find { |c| c.matches(".md") }
-      blueprints = Array(site.pages.detect{|p| File.extname(p.name) == ".apibp"})
+      blueprints = Array(site.pages.keep_if{|p| File.extname(p.name) == ".apibp"})
+      new_pages = Array.new
       blueprints.each do |b|
         new_page = Page.new(b.site, b.instance_variable_get(:@base), b.dir, b.name)
         new_page.instance_variable_set(:@converter, converter)
         new_page.data["layout"] = "post"
-        site.pages << new_page
+        new_pages.push new_page
       end
-    end
+      site.pages += new_pages
+   end
   end
 end
