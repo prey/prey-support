@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Events - Visits the URL
-categories: [tutorial, event-library-tutorial]
+categories:
+- support
+- tutorial
+- event-library-tutorial
 summary: Trigger events when someone visits a URL.
 ---
 * Table of Contents

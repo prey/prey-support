@@ -2,6 +2,7 @@
 layout: post
 title: "SaaS JavaScript Code Examples"
 categories:
+- support
 tags:
 summary: This is the syntax of the API calls for our SaaS Essentials.
 permalink: /best-practices/saas-essentials/js-examples

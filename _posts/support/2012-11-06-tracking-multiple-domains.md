@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Can I use the JavaScript Library on multiple domains?
-categories: [apis, javascript]
+categories:
+- support
+- apis
+- javascript
 summary: Do your customers land on several domains when interacting with your website? Here's what you need to know.
 ---
 * Table of Contents

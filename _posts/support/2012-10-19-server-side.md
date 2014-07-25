@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Tracking an A/B Test Created with Your Own Server-Side Code
-categories: how-tos
+categories:
+- support
+- how-tos
 summary: If you already have existing server-side code that drives your A/B tests, here is how to pass your results into KISSmetrics.
 permalink: /a-b-testing/server-side
 ---

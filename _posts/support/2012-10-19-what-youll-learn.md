@@ -1,7 +1,9 @@
 ---
 layout: post
 title: What You Learn with KISSmetrics
-categories: overview
+categories:
+- support
+- overview
 summary: Read examples about the kinds of things you can learn with KISSmetrics.
 ---
 * Table of Contents

@@ -1,7 +1,9 @@
 ---
 layout: post
 title: What Can Be Exported to CSV?
-categories: tools
+categories:
+- support
+- tools
 summary: Some of our report data can be exported to CSV files. Here is a quick reference for which of our reports support it.
 ---
 * Table of Contents

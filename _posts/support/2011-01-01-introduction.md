@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Introduction to KISSmetrics
-categories: tutorial
+categories:
+- support
+- tutorial
 summary: A brief introduction to KISSmetrics
 ---
 * Table of Contents

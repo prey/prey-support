@@ -1,7 +1,10 @@
 ---
 layout: post
 title: MySQL Argument Out of Range
-categories: [integrations, mysql]
+categories:
+- support
+- integrations
+- mysql
 summary: Why do I get a MySQL error ArgumentError - argument out of range?
 ---
 * Table of Contents

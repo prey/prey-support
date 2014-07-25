@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Why is my own site listed as a referrer?
-categories: troubleshooting
+categories:
+- support
+- troubleshooting
 summary: Why is my own site listed as a referrer?
 ---
 * Table of Contents

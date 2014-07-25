@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Step 2 - Start Installation by Adding Our JavaScript Library to Your Website
-categories: learn
+categories:
+- support
+- learn
 portal: university
 summary: Once you know what KPIs to begin focusing on, let's start creating events, starting with installing our JavaScript Library.
 ---

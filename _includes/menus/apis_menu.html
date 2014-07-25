@@ -5,14 +5,14 @@
   </div>
   <div id="apis-list" class="collapse">
     <ul>
-    {% for page in site.categories['support'].apis %}
+    {% for page in site.categories.apis %}
       <li>
         <a href="{{page.url}}">{{ page.title }}</a>
       </li>
     {% endfor %}
       <div class='more-content'>
         <li>
-          <a href='/apis/'>(View all {{ site.categories['support'].apis | size }} articles)</a>
+          <a href='/apis/'>(View all {{ site.apis | size }} articles)</a>
         </li>
       </div>
     </ul>

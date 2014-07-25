@@ -1,6 +1,9 @@
 ---
 layout: post
-categories: [apis, javascript]
+categories:
+- support
+- apis
+- javascript
 title: "Recreating TrackSubmit Using jQuery"
 tags: []
 summary: Track form submissions using jQuery.

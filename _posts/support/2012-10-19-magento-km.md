@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Magento and KISSmetrics
-categories: integrations
+categories:
+- support
+- integrations
 summary: Set up KISSmetrics to track each step of a Magento-driven checkout process.
 ---
 * Table of Contents

@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Optimizely Integration
-categories: integrations
+categories:
+- support
+- integrations
 summary: KISSmetrics and Optimizely have integrated. See how to use both products with each other.
 ---
 * Table of Contents

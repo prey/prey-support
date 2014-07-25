@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Technical Limitations
-categories: getting-started
+categories:
+- support
+- getting-started
 tags: [common_dev_pitfalls]
 summary: Consider these limitations as you are structuring your data and naming events and properties.
 ---

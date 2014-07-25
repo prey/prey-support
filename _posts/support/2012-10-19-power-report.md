@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Power Report
-categories: tools
+categories:
+- support
+- tools
 summary: The Power Report lets you manipulate all of your events and properties in different ways, like a pivot table.
 permalink: /tools/power-report/index.html
 ---

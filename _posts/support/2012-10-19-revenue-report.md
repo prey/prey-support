@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Revenue Report
-categories: tools
+categories:
+- support
+- tools
 summary: The Revenue Report gives you a wholistic view of your revenue and your paying customers.
 ---
 * Table of Contents

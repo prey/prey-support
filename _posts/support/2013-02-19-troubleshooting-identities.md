@@ -1,6 +1,8 @@
 ---
 layout: post
-categories: troubleshooting
+categories:
+- support
+- troubleshooting
 title: "Problems with Identifying Users?"
 tags: [identities]
 summary: These are several pitfalls to avoid when using KISSmetrics identities.

@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Installing KISSmetrics through Google Tag Manager
-categories: [apis, javascript]
+categories:
+- support
+- apis
+- javascript
 tags: [installation]
 summary: Here's how to load the KISSmetrics JavaScript library through Google Tag Manager.
 ---

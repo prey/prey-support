@@ -1,7 +1,9 @@
 ---
 layout: post
 title: IP Blocking and Filtering
-categories: troubleshooting
+categories:
+- support
+- troubleshooting
 summary: Here are options for filtering certain people from generating KISSmetrics events.
 ---
 * Table of Contents

@@ -1,7 +1,9 @@
 ---
 layout: post
 title: "Installing: How to Send Us Data"
-categories: getting-started
+categories:
+- support
+- getting-started
 tags: [developer_portal]
 summary: There are many different ways of sending data to KISSmetrics. Review your options here.
 ---

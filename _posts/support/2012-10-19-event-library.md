@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Event Library
-categories: tools
+categories:
+- support
+- tools
 summary: The Event Library lists all of your events. It also contains the Event Wizard, which lets you create new rules to record events without additional code changes.
 permalink: /tools/event-library/index.html
 ---

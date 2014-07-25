@@ -1,6 +1,8 @@
 ---
 layout: post
-categories: getting-started
+categories:
+- support
+- getting-started
 title: "Testing: How to Verify KISSmetrics Is Working"
 tags: [developer_portal]
 summary: Learn how to test KISSmetrics and keep the test data separate from your "real" data.

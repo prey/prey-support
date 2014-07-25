@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Step 7 - Identifying Customers
-categories: learn
+categories:
+- support
+- learn
 portal: university
 summary: Use our JavaScript API to call out known customers.
 ---

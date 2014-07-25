@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Cohort Report Options
-categories: [tools, cohort-report]
+categories:
+- support
+- tools
+- cohort-report
 summary: An overview of the different options you have when generating cohort reports.
 ---
 * Table of Contents

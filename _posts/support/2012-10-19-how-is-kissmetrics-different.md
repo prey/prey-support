@@ -1,7 +1,9 @@
 ---
 layout: post
 title: KISSmetrics Is Different
-categories: overview
+categories:
+- support
+- overview
 summary: KISSmetrics is different than any other analytics system because it is the only analytics platform that measures at the person level.
 ---
 * Table of Contents

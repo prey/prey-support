@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Step 5 - What We Mean by "Properties"
-categories: learn
+categories:
+- support
+- learn
 portal: university
 summary: (<em>KISSmetrics Concept</em>) Properties help you group customers into buckets to effectively compare them.
 ---

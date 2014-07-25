@@ -1,7 +1,9 @@
 ---
 layout: post
 title: SaaS Power Users Use Case
-categories: use-cases
+categories:
+- support
+- use-cases
 summary: How to find the users that use your product the most.
 ---
 * Table of Contents

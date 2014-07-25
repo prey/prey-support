@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Developing in localhost
-categories: apis
+categories:
+- support
+- apis
 tags: javascript
 summary: Don't use KISSmetrics with `localhost` as your development environment; provide a custom domain name to set your cookies.
 permalink: /advanced/local-development

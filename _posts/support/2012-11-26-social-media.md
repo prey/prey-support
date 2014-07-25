@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Infographic - Tracking Social Media, Step-by-Step
-categories: use-cases
+categories:
+- support
+- use-cases
 summary: How to track the effects of social media.
 ---
 * Table of Contents

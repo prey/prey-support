@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Tracking UTM Parameters
-categories: integrations
+categories:
+- support
+- integrations
 summary: Some notes to consider when using Google Analytics' UTM parameters with KISSmetrics.
 ---
 * Table of Contents

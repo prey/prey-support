@@ -1,6 +1,8 @@
 ---
 layout: post
-categories: integrations
+categories:
+- support
+- integrations
 title: "JSON Files as an External Data Source"
 tags: []
 summary: Import data to KISSmetrics using .json files.

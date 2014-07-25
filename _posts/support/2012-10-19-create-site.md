@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Create a New Site
-categories: how-tos
+categories:
+- support
+- how-tos
 summary: How to generate a new API key by creating a new site in your KISSmetrics account.
 ---
 * Table of Contents

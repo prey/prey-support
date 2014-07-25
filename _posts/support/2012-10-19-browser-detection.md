@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Browser Detection
-categories: how-tos
+categories:
+- support
+- how-tos
 summary: Record information about your visitors' web browsers as KISSmetrics properties.
 ---
 * Table of Contents

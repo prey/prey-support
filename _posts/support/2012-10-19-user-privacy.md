@@ -1,7 +1,9 @@
 ---
 layout: post
 title: User Privacy
-categories: misc
+categories:
+- support
+- misc
 summary: Learn how KISSmetrics works in regards to your users' privacy and what you can do to make sure your KISSmetrics installation is in compliance with your privacy policy.
 ---
 * Table of Contents

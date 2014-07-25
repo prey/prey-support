@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Infographic - Finding ROI of Email Marketing
-categories: use-cases
+categories:
+- support
+- use-cases
 summary: How to find the ROI of your email marketing.
 ---
 * Table of Contents

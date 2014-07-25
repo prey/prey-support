@@ -1,7 +1,9 @@
 ---
 layout: post
 title: What should I measure?
-categories: overview
+categories:
+- support
+- overview
 summary: What should you measure with KISSmetrics?
 ---
 * Table of Contents

@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Clicks On Events
-categories: [tutorial, event-library-tutorial]
+categories:
+- support
+- tutorial
+- event-library-tutorial
 summary: Trigger events when someone clicks on an element.
 ---
 * Table of Contents

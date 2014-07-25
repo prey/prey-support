@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Call Tracking Metrics
-categories: integrations
+categories:
+- support
+- integrations
 summary: Import data from Call Tracking Metrics into KISSmetrics.
 ---
 * Table of Contents

@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Tracking Offline Events
-categories: how-tos
+categories:
+- support
+- how-tos
 summary: Track important customer interaction events that happen "offline".
 ---
 * Table of Contents

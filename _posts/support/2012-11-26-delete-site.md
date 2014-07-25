@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Deleting Your Site
-categories: how-tos
+categories:
+- support
+- how-tos
 summary: How to delete a KISSmetrics site and remove all the associated data.
 ---
 * Table of Contents

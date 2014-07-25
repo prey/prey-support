@@ -1,7 +1,9 @@
 ---
 layout: post
 title: ROI of Campaigns Use Case
-categories: use-cases
+categories:
+- support
+- use-cases
 summary: Accurately track the revenue you've earned from marketing campaigns.
 ---
 * Table of Contents

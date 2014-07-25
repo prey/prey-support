@@ -1,7 +1,9 @@
 ---
 layout: post
 title: 5 awesome things you'll be able to do within a week
-categories: overview
+categories:
+- support
+- overview
 summary: 5 awesome things you can do within a week of installing KISSmetrics.
 ---
 * Table of Contents

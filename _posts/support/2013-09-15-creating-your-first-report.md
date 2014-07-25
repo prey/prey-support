@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Step 4 - Creating Your First Report
-categories: learn
+categories:
+- support
+- learn
 portal: university
 summary: With your newly-created custom events, let's start exploring different ways to visualize their data.
 ---

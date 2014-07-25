@@ -1,6 +1,8 @@
 ---
 layout: post
-categories: troubleshooting
+categories:
+- support
+- troubleshooting
 title: "Common Cohort Report Questions"
 tags: []
 summary: Answers to common Cohort Report questions.

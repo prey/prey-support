@@ -1,7 +1,10 @@
 ---
 layout: post
 title: One-Time JSON Upload
-categories: [integrations, json-import]
+categories:
+- support
+- integrations
+- json-import
 summary: Import data by uploading a single .json file.
 ---
 * Table of Contents

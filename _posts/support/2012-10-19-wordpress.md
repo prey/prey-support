@@ -1,7 +1,9 @@
 ---
 layout: post
 title: WordPress Plugin
-categories: integrations
+categories:
+- support
+- integrations
 summary: Plugins for installing KISSmetrics on WordPress are available.
 ---
 * Table of Contents

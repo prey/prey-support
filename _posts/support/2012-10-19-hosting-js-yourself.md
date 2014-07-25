@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Hosting the JavaScript Library Yourself
-categories: [apis, javascript]
+categories:
+- support
+- apis
+- javascript
 summary: We recommend you do not host the JavaScript yourself, but here are the considerations if you decide to.
 ---
 * Table of Contents

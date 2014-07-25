@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Measuring Facebook Logins and Signups
-categories: how-tos
+categories:
+- support
+- how-tos
 tags: []
 summary: Tap into Facebook's JS API to differentiate Logins and Signups via Facebook Connect.
 ---

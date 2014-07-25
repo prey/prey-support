@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Comparing Features with the Power Report
-categories: use-cases
+categories:
+- support
+- use-cases
 summary: How to compare the impact of different features on signups.
 ---
 * Table of Contents
@@ -103,5 +105,3 @@ But you'll still want to test your hypothesis before you commit to it. This can 
 [ss6]: https://s3.amazonaws.com/kissmetrics-support-files/assets/use-cases/compare-features-power-report/06-KM-Feature-Power-Report-Funnel-Only.png
 [ss7]: https://s3.amazonaws.com/kissmetrics-support-files/assets/use-cases/compare-features-power-report/07-KM-Feature-Power-Report-Cohort-Only.png
 [ss8]: https://s3.amazonaws.com/kissmetrics-support-files/assets/use-cases/compare-features-power-report/08-KM-Feature-Power-Report-Results.png
-
-

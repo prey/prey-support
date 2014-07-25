@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Main SaaS Funnel Use Case
-categories: use-cases
+categories:
+- support
+- use-cases
 summary: How to track the steps of your customer acquisition.
 ---
 * Table of Contents

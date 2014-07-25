@@ -1,7 +1,9 @@
 ---
 layout: post
 title: How do I see where my traffic is coming from?
-categories: how-tos
+categories:
+- support
+- how-tos
 summary: How do I see where my traffic is coming from?
 ---
 * Table of Contents

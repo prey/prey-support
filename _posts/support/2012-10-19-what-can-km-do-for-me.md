@@ -1,7 +1,9 @@
 ---
 layout: post
 title: What can KISSmetrics do for me?
-categories: overview
+categories:
+- support
+- overview
 summary: What can KISSmetrics do for you?
 ---
 * Table of Contents

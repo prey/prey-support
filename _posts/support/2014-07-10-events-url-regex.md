@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Events - Visits the URL (with a Regular Expression)
-categories: [tools, event-library]
+categories:
+- support
+- tools
+- event-library
 summary: Trigger events when someone visits a URL that matches a regular expression.
 ---
 * Table of Contents

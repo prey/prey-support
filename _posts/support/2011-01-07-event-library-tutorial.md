@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Event Library
-categories: tutorial
+categories:
+- support
+- tutorial
 summary: The Event Library is used to register new events on your website without additional code changes.
 permalink: /tutorial/event-library-tutorial/index.html
 ---

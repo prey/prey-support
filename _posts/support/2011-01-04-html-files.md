@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Installing KM in Individual HTML Files
-categories: tutorial
+categories:
+- support
+- tutorial
 tags: [installation]
 summary: Learn how to install the JavaScript Library for individual HTML files.
 ---

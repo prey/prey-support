@@ -1,7 +1,9 @@
 ---
 layout: post
 title: People Search
-categories: tools
+categories:
+- support
+- tools
 summary: Our People Search helps you find people who share something in common, whether that's an event they all do or a property they all share.
 ---
 * Table of Contents

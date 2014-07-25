@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Daily Metrics Email
-categories: tools
+categories:
+- support
+- tools
 tags: [metrics]
 summary: Get a daily email update of your top metrics with our Daily Metrics Email.
 ---

@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Installing KM Code on Top vs. Bottom of the Page
-categories: troubleshooting
+categories:
+- support
+- troubleshooting
 summary: Should I put the KM code at the top or bottom of my pages?
 ---
 * Table of Contents

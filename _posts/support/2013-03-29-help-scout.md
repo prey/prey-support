@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Help Scout
-categories: integrations
+categories:
+- support
+- integrations
 summary: Import data from Help Scout into KISSmetrics.
 ---
 * Table of Contents

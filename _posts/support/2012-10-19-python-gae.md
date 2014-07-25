@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Using the Python Library with Google App Engine
-categories: [apis, python]
+categories:
+- support
+- apis
+- python
 summary: Note about using the Python Library with Google App Engine.
 ---
 * Table of Contents

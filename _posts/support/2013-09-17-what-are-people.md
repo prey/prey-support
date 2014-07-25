@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Step 6 - What We Mean by "People"
-categories: learn
+categories:
+- support
+- learn
 portal: university
 summary: (<em>KISSmetrics Concept</em>) Events and properties are associated with each <strong>person</strong>, which lets you visualize the entire lifecycle of individual people.
 ---

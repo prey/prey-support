@@ -1,6 +1,8 @@
 ---
 layout: post
-categories: integrations
+categories:
+- support
+- integrations
 title: "CSV Files as an External Data Source"
 tags: []
 summary: Import data to KISSmetrics using .csv files.

@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Site Settings
-categories: misc
+categories:
+- support
+- misc
 summary: Site settings provides resources to help manage your site.
 ---
 * Table of Contents

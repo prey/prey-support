@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Metric Calculations
-categories: [tools, metrics]
+categories:
+- support
+- tools
+- metrics
 summary: You can create metrics based on one of these calculations.
 ---
 * Table of Contents

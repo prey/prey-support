@@ -5,14 +5,14 @@
   </div>
   <div id="integrations-list" class="collapse">
     <ul>
-    {% for page in site.categories['support'].integrations %}
+    {% for page in site.categories.integrations %}
       <li>
         <a href="{{page.url}}">{{ page.title }}</a>
       </li>
     {% endfor %}
       <div class='more-content'>
         <li>
-          <a href='/integrations/'>(View all {{ site.categories['support'].integrations | size }} articles)</a>
+          <a href='/integrations/'>(View all {{ site.categories.integrations | size }} articles)</a>
         </li>
       </div>
     </ul>

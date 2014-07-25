@@ -1,6 +1,8 @@
 ---
 layout: post
-categories: apis
+categories:
+- support
+- apis
 title: "JavaScript Library"
 tags: []
 summary: Our JavaScript Library is our most full-featured library and is what we recommend for most users.

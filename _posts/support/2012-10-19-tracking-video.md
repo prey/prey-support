@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Tracking Videos
-categories: how-tos
+categories:
+- support
+- how-tos
 summary: Use our JavaScript Library to record views of videos embedded on your site.
 ---
 * Table of Contents

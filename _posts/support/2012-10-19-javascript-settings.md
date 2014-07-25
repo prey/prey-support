@@ -1,7 +1,10 @@
 ---
 layout: post
 title: JavaScript Settings
-categories: [apis, javascript]
+categories:
+- support
+- apis
+- javascript
 summary: JavaScript settings let you adjust what our JavaScript library can do automatically for you.
 ---
 * Table of Contents

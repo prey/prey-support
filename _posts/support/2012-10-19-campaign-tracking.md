@@ -1,7 +1,9 @@
 ---
 layout: post
 title: How to Track Campaign URLs
-categories: how-tos
+categories:
+- support
+- how-tos
 summary: Different methods for tracking links to take people to your website.
 ---
 * Table of Contents

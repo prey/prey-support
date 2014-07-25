@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Time Zones
-categories: troubleshooting
+categories:
+- support
+- troubleshooting
 summary: We consider time zones when determining which day your data should fall under.
 ---
 * Table of Contents

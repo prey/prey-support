@@ -1,7 +1,9 @@
 ---
 layout: post
 title: How To Stop Sending Events
-categories: how-tos
+categories:
+- support
+- how-tos
 summary: How to keep events from contributing to your event count.
 ---
 * Table of Contents

@@ -1,6 +1,8 @@
 ---
 layout: post
-categories: best-practices
+categories:
+- support
+- best-practices
 title: "Segmenting Types of Revenue"
 tags: []
 summary: Properties are designed to help you segment people. If you want to segment your *revenue*, consider adding additional properties to structure the data for reports you want.

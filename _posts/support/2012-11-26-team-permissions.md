@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Team Permissions
-categories: how-tos
+categories:
+- support
+- how-tos
 summary: Bring in more team members to access your site's KISSmetrics account.
 ---
 * Table of Contents

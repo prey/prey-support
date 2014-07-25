@@ -1,6 +1,8 @@
 ---
 layout: post
-categories: misc
+categories:
+- support
+- misc
 title: "KISSmetrics Support Style Guide"
 tags: []
 summary: A guide to help style KISSmetrics Support Articles.

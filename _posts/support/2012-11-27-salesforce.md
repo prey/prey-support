@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Salesforce
-categories: integrations
+categories:
+- support
+- integrations
 summary: See KISSmetrics data within your Salesforce account.
 ---
 * Table of Contents

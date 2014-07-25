@@ -1,7 +1,9 @@
 ---
 layout: post
 title: ROI of Social Media Use Case
-categories: use-cases
+categories:
+- support
+- use-cases
 summary: Accurately track the revenue you've earned from social media.
 ---
 * Table of Contents

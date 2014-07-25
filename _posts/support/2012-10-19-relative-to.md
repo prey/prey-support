@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Relative To
-categories: [tools, power-report]
+categories:
+- support
+- tools
+- power-report
 summary: The Power Report has a date calculation called "Relative to [segment]". Here's what it means.
 ---
 * Table of Contents

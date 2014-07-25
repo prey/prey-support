@@ -1,7 +1,9 @@
 ---
 layout: post
 title: API Specifications
-categories: apis
+categories:
+- support
+- apis
 summary: Here's how our Simple Person-Based REST-like API works, on top of which all of our language libraries are built.
 ---
 * Table of Contents

@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Events - Visits the URL
-categories: [tools, event-library]
+categories:
+- support
+- tools
+- event-library
 summary: Trigger events when someone visits a URL.
 permalink: /tools/event-library/events-url/index.html
 ---

@@ -2,6 +2,7 @@
 layout: post
 title: "E-Commerce JavaScript and Server-Side Code Examples"
 categories:
+- support
 tags:
 summary: This is the syntax of the API calls for our E-commerce Essentials.
 permalink: /best-practices/ecommerce-essentials/js-and-server-side-examples
@@ -121,4 +122,3 @@ You will need to use our [Live Stream][testing-with-live] or your [browser’s d
 [vwo]: /integrations/vwo
 [testing-with-live]: /getting-started/testing-km/#using-kissmetrics-live
 [testing-with-browser]: /getting-started/testing-km/#examine-network-activity
-

@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Using Paypal
-categories: how-tos
+categories:
+- support
+- how-tos
 summary: Using KISSmetrics with a Paypal checkout system.
 ---
 * Table of Contents

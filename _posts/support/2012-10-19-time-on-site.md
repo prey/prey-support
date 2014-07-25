@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Does KISSmetrics Track Bounce Rate, Average Time on Site, or Exits?
-categories: how-tos
+categories:
+- support
+- how-tos
 summary: KISSmetrics is not best suited for metrics like bounce rate or average time on site.
 ---
 * Table of Contents

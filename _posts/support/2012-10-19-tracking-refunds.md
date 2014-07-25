@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Tracking Refunds
-categories: how-tos
+categories:
+- support
+- how-tos
 summary: Track refunds as a separate event, with a negative Billing Amount property.
 ---
 * Table of Contents

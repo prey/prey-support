@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Person Details
-categories: tools
+categories:
+- support
+- tools
 summary: KISSmetrics is unique because it tracks activity down to the person level. Our Person Details pages help summarize each person's activity.
 ---
 * Table of Contents

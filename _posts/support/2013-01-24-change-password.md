@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Change Your Password
-categories: troubleshooting
+categories:
+- support
+- troubleshooting
 summary: We require passwords to have at least 8 characters and 2 numbers/symbols.
 ---
 * Table of Contents

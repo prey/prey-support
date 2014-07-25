@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Tracking Email
-categories: how-tos
+categories:
+- support
+- how-tos
 summary: Tracking email performance, from beginning to end.
 ---
 * Table of Contents

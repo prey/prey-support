@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Detecting Duplicates
-categories: troubleshooting
+categories:
+- support
+- troubleshooting
 summary: KISSmetrics detects and ignores duplicate events and properties.
 ---
 * Table of Contents

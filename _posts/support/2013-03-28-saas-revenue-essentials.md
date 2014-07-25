@@ -1,6 +1,7 @@
 ---
 layout: post
 categories:
+- support
 title: "SaaS Revenue Essentials"
 tags: []
 summary: These are the events and properties you should track to make the most of our upcoming SaaS Revenue Report.

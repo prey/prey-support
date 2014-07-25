@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Step 0 - How to Use Analytics to Move Your Business Faster
-categories: learn
+categories:
+- support
+- learn
 portal: university
 summary: How does analytics fit into improving my business? See the KISSmetrics Demo Account for ideas!
 ---

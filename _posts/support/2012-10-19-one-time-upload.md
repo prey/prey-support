@@ -1,7 +1,10 @@
 ---
 layout: post
 title: One-Time CSV Upload
-categories: [integrations, csv-import]
+categories:
+- support
+- integrations
+- csv-import
 summary: Import data by uploading a single .csv file.
 ---
 * Table of Contents

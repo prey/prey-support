@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Introduction to Events
-categories: tutorial
+categories:
+- support
+- tutorial
 summary: An introduction to tracking Events.
 ---
 * Table of Contents

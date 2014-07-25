@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Data Export Setup
-categories: [apis, data]
+categories:
+- support
+- apis
+- data
 summary: Set up your KISSmetrics account to receive data from our Data Export feature.
 ---
 * Table of Contents

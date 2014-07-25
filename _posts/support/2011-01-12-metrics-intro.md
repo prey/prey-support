@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Introduction to Metrics
-categories: tutorial
+categories:
+- support
+- tutorial
 summary: Create a simple metric to view your event data.
 ---
 * Table of Contents

@@ -1,7 +1,11 @@
 ---
 layout: post
 title: Wildcards
-categories: [tools, event-library, events-url]
+categories:
+- support
+- tools
+- event-library
+- events-url
 summary: Use `*` to indicate wildcards. Here are many examples of what's possible.
 ---
 * Table of Contents

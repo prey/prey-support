@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Tracking Form Abandonment
-categories: how-tos
+categories:
+- support
+- how-tos
 summary: A suggestion for tracking each form field as an event.
 ---
 * Table of Contents

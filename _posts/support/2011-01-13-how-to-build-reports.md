@@ -1,7 +1,9 @@
 ---
 layout: post
 title: How to Build Reports
-categories: tutorial
+categories:
+- support
+- tutorial
 summary: How to build a sample funnel report.
 ---
 * Table of Contents

@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Mailchimp
-categories: integrations
+categories:
+- support
+- integrations
 summary: Import your existing Mailchimp data into KISSmetrics.
 ---
 * Table of Contents

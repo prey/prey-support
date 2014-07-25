@@ -5,14 +5,14 @@
   </div>
   <div id="how-tos-list" class="collapse">
     <ul>
-    {% for page in site.categories['support'].how-tos reversed %}
+    {% for page in site.categories.how-tos reversed %}
       <li>
         <a href="{{page.url}}">{{ page.title }}</a>
       </li>
     {% endfor %}
       <div class='more-content'>
         <li>
-            <a href='/how-tos/'>(View all {{ site.categories['support'].how-tos | size }}  articles)</a>
+            <a href='/how-tos/'>(View all {{ site.categories.how-tos | size }}  articles)</a>
         </li>
       </div>
     </ul>

@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Segment Funnels on Two Properties
-categories: [tools, funnels]
+categories:
+- support
+- tools
+- funnels
 summary: Segment a funnel by one property and by a known value of another property.
 ---
 * Table of Contents

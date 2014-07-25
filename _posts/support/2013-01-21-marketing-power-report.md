@@ -1,7 +1,9 @@
 ---
 layout: post
 title: SaaS Marketing Power Report Use Case
-categories: use-cases
+categories:
+- support
+- use-cases
 summary: How to track multiple marketing metrics using the Power Report
 ---
 * Table of Contents

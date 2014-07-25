@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Tracking Dynamically-Loaded Elements
-categories: how-tos
+categories:
+- support
+- how-tos
 summary: How to track interactions with dynamic elements on your site.
 ---
 * Table of Contents

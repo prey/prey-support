@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Events - Submits a Form
-categories: [tools, event-library]
+categories:
+- support
+- tools
+- event-library
 summary: Trigger events when someone submits a form.
 ---
 * Table of Contents

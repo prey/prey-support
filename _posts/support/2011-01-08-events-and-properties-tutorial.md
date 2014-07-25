@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Events and Properties
-categories: [tutorial, event-library-tutorial]
+categories:
+- support
+- tutorial
+- event-library-tutorial
 summary: Segment your customers with Properties.
 ---
 * Table of Contents

@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Step 3 - Recording Your First KISSmetrics Event with Our JavaScript
-categories: learn
+categories:
+- support
+- learn
 portal: university
 summary: How to add the custom events that address <em>your</em> business' conversions.
 ---

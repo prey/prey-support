@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Ruby on Rails
-categories: [apis, ruby]
+categories:
+- support
+- apis
+- ruby
 summary: Here are two different methods of setting up KISSmetrics in your Ruby on Rails application.
 ---
 * Table of Contents

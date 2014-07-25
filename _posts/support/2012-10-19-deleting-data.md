@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Deleting Data From Your Site
-categories: troubleshooting
+categories:
+- support
+- troubleshooting
 summary: Can I delete data from my site? What do I do with events and properties I no longer need?
 ---
 * Table of Contents

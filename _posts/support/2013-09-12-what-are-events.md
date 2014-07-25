@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Step 1 - What We Mean By "Events"
-categories: learn
+categories:
+- support
+- learn
 portal: university
 summary: (<em>KISSmetrics Concept</em>) Events mark when people have done something meaningful.
 ---

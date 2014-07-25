@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Data Discrepancies
-categories: troubleshooting
+categories:
+- support
+- troubleshooting
 summary: How do I verify the accuracy of my reports?
 permalink: /troubleshooting/data-discrepancies/index.html
 ---

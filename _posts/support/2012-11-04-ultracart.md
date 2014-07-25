@@ -1,7 +1,9 @@
 ---
 layout: post
 title: UltraCart
-categories: integrations
+categories:
+- support
+- integrations
 summary: UltraCart provides an integration option with KISSmetrics. Here's what you need to know.
 ---
 * Table of Contents

@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Objective-C (iOS) Library
-categories: apis
+categories:
+- support
+- apis
 summary: Information about our basic Objective-C/Cocoa library, for iOS and OS X apps.
 ---
 * Table of Contents

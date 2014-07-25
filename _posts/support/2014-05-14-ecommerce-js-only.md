@@ -2,6 +2,7 @@
 layout: post
 title: "E-Commerce JavaScript Code Examples"
 categories:
+- support
 tags:
 summary: This is the syntax of the API calls for our E-commerce Essentials.
 permalink: /best-practices/ecommerce-essentials/js-examples

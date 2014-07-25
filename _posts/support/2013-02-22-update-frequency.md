@@ -1,6 +1,8 @@
 ---
 layout: post
-categories: tools
+categories:
+- support
+- tools
 title: "How recent is my data?"
 tags: []
 summary: How soon will I be able to see data?

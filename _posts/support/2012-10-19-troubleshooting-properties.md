@@ -1,7 +1,9 @@
 ---
 layout: post
 title: "My Properties Don't Look Right"
-categories: troubleshooting
+categories:
+- support
+- troubleshooting
 tags: advanced-properties
 summary: Investigate more ways to report on properties, and to see why the properties may not match what you're expecting.
 ---

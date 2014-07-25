@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Common Methods
-categories: apis
+categories:
+- support
+- apis
 summary: All of our libraries provide the same basic methods - record, set, identify and alias, which are described in more detail here.
 ---
 * Table of Contents

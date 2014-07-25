@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Tracking Social Events
-categories: how-tos
+categories:
+- support
+- how-tos
 summary: JavaScript commands for tracking Likes, Follows, Tweets, Shares, +1's, etc.
 ---
 * Table of Contents

@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Using KISSmetrics with Internet Explorer
-categories: troubleshooting
+categories:
+- support
+- troubleshooting
 summary: KISSmetrics is best experienced in Chrome and Firefox.
 ---
 * Table of Contents

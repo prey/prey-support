@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Tracking Mobile/iPhone/Android Apps
-categories: how-tos
+categories:
+- support
+- how-tos
 summary: Using KISSmetrics to track mobile sites and apps.
 ---
 * Table of Contents

@@ -1,7 +1,9 @@
 ---
 layout: post
 title: How to Track Push Notifications
-categories: how-tos
+categories:
+- support
+- how-tos
 summary: Different methods for tracking push notifications with your iOS application.
 ---
 * Table of Contents

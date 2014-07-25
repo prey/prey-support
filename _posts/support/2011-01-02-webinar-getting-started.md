@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Webinar - Getting Started
-categories: tutorial
+categories:
+- support
+- tutorial
 summary: This is a recorded webinar that walks you through the initial setup, creating events to track, and then creating reports to view data from those events.
 ---
 * Table of Contents

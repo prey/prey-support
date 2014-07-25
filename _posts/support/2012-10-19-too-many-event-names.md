@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Too Many Unique Event Names or Property Names
-categories: troubleshooting
+categories:
+- support
+- troubleshooting
 tags: [common_dev_pitfalls]
 summary: Having too many event names slows the experience with our app. Please avoid sending us too many event names.
 ---

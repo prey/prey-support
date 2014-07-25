@@ -1,7 +1,9 @@
 ---
 layout: post
 title: SaaS Essentials
-categories: best-practices
+categories:
+- support
+- best-practices
 summary: Here's a list to get you started with picking the right events to track for your SaaS business.
 ---
 * Table of Contents

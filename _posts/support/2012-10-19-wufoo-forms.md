@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Wufoo Forms
-categories: how-tos
+categories:
+- support
+- how-tos
 author: Eric Fung
 summary: Measuring submissions of your Wufoo forms.
 ---
