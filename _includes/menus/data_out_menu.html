@@ -1,0 +1,15 @@
+<li>
+  <div  class="collapse-hitbox" data-toggle="collapse" data-target="#data-out">
+    <span class="glyphicon glyphicon-chevron-right"></span>
+    <a href="#data-out">Data Out Documentation</a>
+  </div>
+  <div id="data-out" class="collapse">
+    <ul>
+    {% for page in site.categories['km-apis'] %}
+      <li>
+        <a href="{{page.url}}">{{ page.title }}</a>
+      </li>
+    {% endfor %}
+    </ul>
+  </div>
+</li>

@@ -103,7 +103,7 @@ Here is a link: [http://jekyllrb.com/docs/home/](http://jekyllrb.com/docs/home/)
 
 ## Neat Uses of Liquid
 
-* Reversing a list: `{% for page in site.categories.troubleshooting reversed %}`
+* Reversing a list: `{% for page in site.categories['support'].troubleshooting reversed %}`
 
 ## Pygments
 

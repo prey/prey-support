@@ -17,7 +17,7 @@ portal: university
   <li>Create and run the reports you planned for.</li>
 </ol>
 
-{% for page in site.categories.learn reversed %}
+{% for page in site.categories['support'].learn reversed %}
 <ul class="summary" >
   <li>
     <a href="{{page.url}}">
