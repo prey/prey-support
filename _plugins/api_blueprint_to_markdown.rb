@@ -12,7 +12,6 @@ module Jekyll
       #   new_pages.push new_page
       # end
       # site.pages += new_pages
-      puts site.categories.inspect
    end
   end
 end
