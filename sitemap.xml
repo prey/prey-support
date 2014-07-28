@@ -781,6 +781,22 @@
         <lastmod>2014-07-25T12:04:15-07:00</lastmod>
     </url>
     <url>
+        <loc>http://support.kissmetrics.com/km-apis/data-out/branched_funnel</loc>
+        <lastmod>2014-07-26T21:56:23-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://support.kissmetrics.com/km-apis/newthing/optimization</loc>
+        <lastmod>2014-07-26T21:56:31-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://support.kissmetrics.com/km-apis/data-out/queries</loc>
+        <lastmod>2014-07-26T21:56:38-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://support.kissmetrics.com/km-apis/data-out/reports</loc>
+        <lastmod>2014-07-26T21:59:28-07:00</lastmod>
+    </url>
+    <url>
         <loc>http://support.kissmetrics.com/404.html</loc>
         <lastmod>2014-07-21T21:35:22-07:00</lastmod>
     </url>
@@ -810,7 +826,7 @@
     </url>
     <url>
         <loc>http://support.kissmetrics.com/</loc>
-        <lastmod>2014-07-25T12:04:47-07:00</lastmod>
+        <lastmod>2014-07-26T21:59:28-07:00</lastmod>
     </url>
     <url>
         <loc>http://support.kissmetrics.com/integrations/</loc>
@@ -823,30 +839,6 @@
     <url>
         <loc>http://support.kissmetrics.com/misc/</loc>
         <lastmod>2014-07-21T21:35:22-07:00</lastmod>
-    </url>
-    <url>
-        <loc>
-            http://support.kissmetrics.com/public_apis/km-query-api/v1/public_apis/km-query-api/v1/branched_funnel.apibp
-        </loc>
-        <lastmod>2014-07-24T11:40:18-07:00</lastmod>
-    </url>
-    <url>
-        <loc>
-            http://support.kissmetrics.com/public_apis/km-query-api/v1/public_apis/km-query-api/v1/optimization.apibp
-        </loc>
-        <lastmod>2014-07-24T12:03:50-07:00</lastmod>
-    </url>
-    <url>
-        <loc>
-            http://support.kissmetrics.com/public_apis/km-query-api/v1/public_apis/km-query-api/v1/queries.apibp
-        </loc>
-        <lastmod>2014-07-24T11:15:25-07:00</lastmod>
-    </url>
-    <url>
-        <loc>
-            http://support.kissmetrics.com/public_apis/km-query-api/v1/public_apis/km-query-api/v1/reports.apibp
-        </loc>
-        <lastmod>2014-07-24T11:15:29-07:00</lastmod>
     </url>
     <url>
         <loc>http://support.kissmetrics.com/tools/</loc>

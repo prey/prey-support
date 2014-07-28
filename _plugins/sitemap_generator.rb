@@ -151,8 +151,10 @@ module Jekyll
         end
 
         path = post.full_path_to_source
-        date = File.mtime(path)
-        last_modified_date = date if last_modified_date == nil or date > last_modified_date
+        if File.exist?(path)
+          date = File.mtime(path)
+          last_modified_date = date if last_modified_date == nil or date > last_modified_date
+        end
       end
 
       last_modified_date
@@ -233,23 +235,25 @@ module Jekyll
       path = page_or_post.full_path_to_source
 
       lastmod = REXML::Element.new "lastmod"
-      date = File.mtime(path)
-      latest_date = find_latest_date(date, site, page_or_post)
+      if File.exist?(path)
+        date = File.mtime(path)
+        latest_date = find_latest_date(date, site, page_or_post)
 
-      if @last_modified_post_date == nil
-        # This is a post
-        lastmod.text = latest_date.iso8601
-      else
-        # This is a page
-        if posts_included?(page_or_post.name)
-          # We want to take into account the last post date
-          final_date = greater_date(latest_date, @last_modified_post_date)
-          lastmod.text = final_date.iso8601
-        else
+        if @last_modified_post_date == nil
+          # This is a post
           lastmod.text = latest_date.iso8601
+        else
+          # This is a page
+          if posts_included?(page_or_post.name)
+            # We want to take into account the last post date
+            final_date = greater_date(latest_date, @last_modified_post_date)
+            lastmod.text = final_date.iso8601
+          else
+            lastmod.text = latest_date.iso8601
+          end
         end
+        lastmod
       end
-      lastmod
     end
 
     # Go through the page/post and any implemented layouts and get the latest

@@ -1,5 +1,8 @@
 ---
-categories: newthing
+layout: post
+categories:
+- km-apis
+- newthing
 ---
 # KM Query API
 

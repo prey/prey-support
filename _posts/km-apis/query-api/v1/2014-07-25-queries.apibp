@@ -1,5 +1,8 @@
 ---
-categories: data-out
+layout: post
+categories:
+- km-apis
+- data-out
 ---
 # KM Query API
 
