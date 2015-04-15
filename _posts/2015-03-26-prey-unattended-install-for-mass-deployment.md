@@ -105,6 +105,8 @@ In case dependencies aren't found, just run these two additional commands:
 
 While there's not a set of instructions that you can use for an unattended install on Android, we can provide custom APK installers with your account information so you don't have to enter your Prey email and password on each device. These are reviewed and packaged on demand for eligible organizations with a fleet of Android devices. [Contact us][contact-form] for more information.
 
+******************************
+
 # Image Deployment
 
 To image deploy Prey on your computers is simple. Steps must be followed entirely, though, or bad things might happen. The most important part is that **Prey must be the last app to be installed on the master machine.** You can't connect it to the internet after this process or you'll get cloned machines on your Prey account.
@@ -122,6 +124,8 @@ Once you're done with everything else and you are ready to setup Prey,
 **Do not connect to the internet.**
 
 Now you can deploy the image into other computers. As soon as the new devices connect to the internet they'll be added to your Prey account.
+
+******************************
 
 # Troubleshooting and Known Issues
 
