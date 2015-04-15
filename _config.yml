@@ -5,7 +5,7 @@ pygments: true
 exclude: [Gemfile,Gemfile.lock,Rakefile,CNAME,README.md]
 
 # Site Variables
-github_url: https://github.com/prey/km-support/blob/gh-pages/
+github_url: https://github.com/prey/prey-support/blob/gh-pages/
 
 # Styling
 sass:
