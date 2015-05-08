@@ -85,15 +85,15 @@ The script will actually check if the key is valid and if the account has availa
 
 Run the following commands on a terminal:
 
-    sudo apt-get update API_KEY=foobar123
-    sudo -E dpkg -i prey_1.X.X_amd64.deb
+    sudo apt-get update
+    API_KEY=foobar123 sudo -E dpkg -i prey_1.X.X_amd64.deb
 
 ![Ubuntu instructions](/_images/2015-03-26-prey-unattended-install-for-mass-deployment-5.png)
 
 In case dependencies aren't found, just run these two additional commands:
 
-    sudo apt-get -f install API_KEY=foobar123
-    sudo -E dpkg -i prey_1.X.X_amd64.deb
+    sudo apt-get -f install
+    API_KEY=foobar123 sudo -E dpkg -i prey_1.X.X_amd64.deb
 
 ### npm
 
