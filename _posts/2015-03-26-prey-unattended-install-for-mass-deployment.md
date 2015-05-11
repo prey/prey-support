@@ -67,7 +67,7 @@ The command should gracefully look like this:
 
 The `/S` parameter makes the installation silent, though it can't be *completely* silent. For that please prefer the MSI method.
 
-## Mac OS X
+## 2. Mac OS X
 
 Open a terminal and run the following command:
 
@@ -79,7 +79,7 @@ Open a terminal and run the following command:
 
 The script will actually check if the key is valid and if the account has available slots before copying anything to disk. This means that if the `API_KEY` verification fails, the install process will exit with a fatal error and it won't copy anything.
 
-## Linux
+## 3. Linux
 
 ### Ubuntu and Debian-based Distributions
 
@@ -101,7 +101,7 @@ In case dependencies aren't found, just run these two additional commands:
     sudo prey hooks post_install
     sudo prey config account authorize -a foobar123 # foobar123 is your API key
 
-## Android
+## 4. Android
 
 While there's not a set of instructions that you can use for an unattended install on Android, we can provide custom APK installers with your account information so you don't have to enter your Prey email and password on each device. These are reviewed and packaged on demand for eligible organizations with a fleet of Android devices. [Contact us][contact-form] for more information.
 
