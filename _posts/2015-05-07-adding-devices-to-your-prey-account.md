@@ -85,8 +85,6 @@ Prey handles the installation log on the `prey-install.log` file located in your
 
 Please search for the `prey-install.log`, open it on a text editor, and paste its output when you contact us from your Prey account.
 
-![prey-install.log](../_images/2015-05-07-adding-devices-to-your-prey-account-2.png)
-
 Note: The `.log` could me missing from the file if you chose your operating system to hide file extensions.
 
 ### OS X
@@ -101,7 +99,7 @@ Different distributions have different names for their packages. Please make sur
 
 You won't be able to add a device to your account in case you reached your device quota. Free accounts can protect up to 3 devices, as well as the Prey Pro Personal plan. In case you need to protect more devices you can [subscribe](subscribe) to the Home plan or bigger, or delete existing devices from your account to make room for new ones.
 
-
+![prey-install.log](../_images/2015-05-07-adding-devices-to-your-prey-account-2.png)
 
 ## My problem is not listed
 
