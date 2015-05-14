@@ -75,7 +75,7 @@ Open a terminal and run the following command:
 
 ![Mac OS X instruction](/_images/2015-03-26-prey-unattended-install-for-mass-deployment-4.png)
 
-**Important:** You *must* pass a valid API_KEY value of the process won't work.
+**Important:** You *must* pass a valid API_KEY value or the process won't work.
 
 The script will actually check if the key is valid and if the account has available slots before copying anything to disk. This means that if the `API_KEY` verification fails, the install process will exit with a fatal error and it won't copy anything.
 
