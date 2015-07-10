@@ -18,7 +18,7 @@ This page will answer four questions:
 
 # 1. What is Prey?
 
-Prey is a cross-platform, open source security solution that will let you track and potentially recover your devices in case of loss or theft. It can locate your laptops, phones, and tablets on a map, take pictures from all their cameras, take screenshots from your computer, or even remotely wipe the data from your device (except for iOS).    
+Prey is a cross-platform, open source security solution that will let you track and potentially recover your devices in case of loss or theft. It can locate your laptops, phones, and tablets on a map, take pictures from all their cameras, take screenshots from your computer, or even remotely wipe the data from your device (except for iOS).
 
 Prey is both a [tiny piece of software][download] installed on devices (the **Prey agent**), and the [online system][prey-account] used to track them (your **Prey account**). Together they're the powerful service that can turn you from victim to superhero, like [all these guys and gals][recoveries].
 
@@ -39,7 +39,7 @@ Prey can protect all your devices, regardless if you're a single person or a big
 
 Prey came out in late 2009, and since then many other alternatives have seen the light. Some have implemented a few of the features that Prey provides, but none of them can protect all your devices from the same place. With Prey you can consolidate all your security needs on your [Prey account][prey-account], despite of their manufacturer or operating system.
 
-Prey also provides **reports** in addition to real-time location. Reports are generated on intervals set by the user, and include the devices' location, pictures, screenshots, network information, and other data at a given time. These are perfect as evidence when police take charge of things. With other providers you know what is *currently* happening to your computer or mobile; with Prey you also know what has happened over time, and you can save that information for whenever you need.     
+Prey also provides **reports** in addition to real-time location. Reports are generated on intervals set by the user, and include the devices' location, pictures, screenshots, network information, and other data at a given time. These are perfect as evidence when police take charge of things. With other providers you know what is *currently* happening to your computer or mobile; with Prey you also know what has happened over time, and you can save that information for whenever you need.
 
 # 4. What should I do to make sure that Prey will help me?
 
@@ -47,8 +47,8 @@ Long answer made short, you need to have Prey installed on your devices **before
 
 ## Sign up and install
 
-- [Download Prey][download]. You can sign up from the installer or from [our site][sign-up]. 
-- Install Prey on your device. You can get Prey for laptops directly from our site. Prey for mobiles is available on the [AppStore][appstore] and [Google Play][google-play]. 
+- [Download Prey][download]. You can sign up from the installer or from [our site][sign-up].
+- Install Prey on your device. You can get Prey for laptops directly from our site. Prey for mobiles is available on the [AppStore][appstore] and [Google Play][google-play].
 - Enter your credentials to the installer, or create a new account in case you don't have one.
 - Access your [Prey account][prey-account] to make sure that the device was successfully added
 
@@ -68,9 +68,9 @@ Pro plans start at $5/mo for 3 devices, and can go up to a thousand computers or
 
 # Learn more
 
-This is just the start. Please head to our [documentation][support-home] to learn more about Prey, solve common questions, and more awesome stuff. 
+This is just the start. Please head to our [documentation][support-home] to learn more about Prey, solve common questions, and more awesome stuff.
 
-[support-home]: # "Prey Support"
+[support-home]: /help "Prey Support"
 [prey-account]: https://panel.preyproject.com/ "Prey account"
 [download]: https://preyproject.com/download "Download Prey"
 [recoveries]: https://preyproject.com/blog/cat/recoveries "Prey recovery stories"

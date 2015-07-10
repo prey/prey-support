@@ -62,7 +62,7 @@ Once the `device_key` for your newly added computer is the same as its URL on yo
 
 ## 3. Make Sure that Prey Is Running On Both Computers
 
-We're all set with the new laptop, though we still don't know if everything is right on the former one. It's not an easy task to confirm that a stolen computer is reporting properly until it does, because as you might already know, [Prey requires the devices to be connected to the internet to get you reports](2015-03-24-how-to-track-a-stolen-device.md). The important thing here is that once both clones computers are split up, the old one will remain as the old entry on your Prey account, and all reports that arrive will be from that stolen or lost device. Please be patient until the information arrives. [It will][recoveries].
+We're all set with the new laptop, though we still don't know if everything is right on the former one. It's not an easy task to confirm that a stolen computer is reporting properly until it does, because as you might already know, [Prey requires the devices to be connected to the internet to get you reports](how-to-track-a-stolen-device.md). The important thing here is that once both clones computers are split up, the old one will remain as the old entry on your Prey account, and all reports that arrive will be from that stolen or lost device. Please be patient until the information arrives. [It will][recoveries].
 
 ******************************
 
@@ -74,7 +74,7 @@ If you're sure that you deleted the `prey.conf` file after the uninstall process
 
 Please use the [contact form][contact-form] from your [Prey account][prey-account]. We're always glad to help.
 
-[support-home]: # "Prey Support"
+[support-home]: /help "Prey Support"
 [prey-account]: https://panel.preyproject.com/ "Prey account"
 [download]: https://preyproject.com/download "Download Prey"
 [recoveries]: https://preyproject.com/blog/cat/recoveries "Prey recovery stories"

@@ -23,7 +23,7 @@ Keep calm and use the first device available to access your [Prey account][prey-
 
 This is the most important part of the process. In most cases your computer or mobile's current location won't be enough to recover it. You'll need more data, specially if you're reporting the case to the police. The extra data can be pictures, nearby wireless networks, screenshots, and the device's hardware informartion. Those are all included in Prey reports. Reports look like this.
 
-![Prey reports](/_images/2015-03-24-how-to-track-a-stolen-device-2.png)   
+![Prey reports](/_images/2015-03-24-how-to-track-a-stolen-device-2.png)
 
 You can also locate your device in real time on the map by just clicking a button, the **Update Location** button on the map, when clicking a device.
 
@@ -37,13 +37,13 @@ Provided that it's running properly on an online device, Prey will report a seri
 
 ## But it doesn't only protects against theft
 
-Prey is a remote management and monitoring system for all your devices. You can know in real time if they actually are where they're supposed to be, you can lock them down to prevent prying eyes to access sensitive information at work or home, you can ring an alarm whenever you don't find them instead of asking others to call you, and you can even delete information from your devices if you ever need it (except on iOS). 
+Prey is a remote management and monitoring system for all your devices. You can know in real time if they actually are where they're supposed to be, you can lock them down to prevent prying eyes to access sensitive information at work or home, you can ring an alarm whenever you don't find them instead of asking others to call you, and you can even delete information from your devices if you ever need it (except on iOS).
 
 # 3. What is normal and what is not?
 
 The Prey agent on your devices requires an internet connection to communicate with your Prey account, and it can't run on devices that are either turned off or offine.
 
-## Normal behavior     
+## Normal behavior
 
 - **Reports take a while to arrive for lost or stolen devices.** Thieves usually turn them off, and you need them to be online. It could take a while for them to use them, or sell them and the new "owner" to log in for the first time.
 - **Pictures are terribly dark.** Pictures are taken by the computer or mobile's camera or cameras. A phone in a pocket or bag will take black pictures, and a computer in a poorly-lit room won't be able to show the thieves' faces. Just wait. The phone will come out of that pocket and the sun will rise, and you'll catch them.
@@ -58,11 +58,11 @@ The Prey agent on your devices requires an internet connection to communicate wi
 - I don't get location at all.
 - I don't get pictures and the device has one or more cameras.
 
-We can't troubleshoot lost devices, but in case you still have them with you please  If the computer is still with you please [contact us][contact-form]. We'll assist you ASAP.    
+We can't troubleshoot lost devices, but in case you still have them with you please  If the computer is still with you please [contact us][contact-form]. We'll assist you ASAP.
 
 
 
-[support-home]: # "Prey Support"
+[support-home]: /help "Prey Support"
 [prey-account]: https://panel.preyproject.com/ "Prey account"
 [download]: https://preyproject.com/download "Download Prey"
 [recoveries]: https://preyproject.com/blog/cat/recoveries "Prey recovery stories"

@@ -32,7 +32,7 @@ You can find your API Key on your account settings, white over blue at the botto
 
 # Unattended Install
 
-## 1. Windows    
+## 1. Windows
 
 There are two different installation methods for Windows, an `EXE` and an `MSI` installers. Both will work and install Prey on your systems, with two main differences.
 
@@ -112,7 +112,7 @@ While there's not a set of instructions that you can use for an unattended insta
 To image deploy Prey on your computers is simple. Steps must be followed entirely, though, or bad things might happen. The most important part is that **Prey must be the last app to be installed on the master machine.** You can't connect it to the internet after this process or you'll get cloned machines on your Prey account.
 
 Once you're done with everything else and you are ready to setup Prey,
- 
+
 1. Install the regular Prey package on the master machine, double clicking on the installer.
 2. When the process finishes just close the config dialog. **Do not enter your account's credentials.** We can't insist enough on this.
 3. **Disconnect from the internet.**
@@ -139,7 +139,7 @@ To prevent this from happening you can disable the "Overwrite devices if their h
 
 If the previous case doesn't fix the problem, then it means that you connected the master machine to the internet after installing Prey. That made it create the device on your Prey account, and then it cloned that same configuration to all other computers. To fix that, completely uninstall Prey and start again.
 
-[support-home]: # "Prey Support"
+[support-home]: /help "Prey Support"
 [prey-account]: https://panel.preyproject.com/ "Prey account"
 [download]: https://preyproject.com/download "Download Prey"
 [recoveries]: https://preyproject.com/blog/cat/recoveries "Prey recovery stories"

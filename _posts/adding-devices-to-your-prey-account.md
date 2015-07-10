@@ -27,7 +27,7 @@ The protect all your devices with Prey it's as easy as 1-2-3. In a nutshell, you
 
 **You can't add devices that you can't access.** It's impossible to register to your account a computer or phone already stolen, unless you previously had some kind of remote desktop software, such as Chrome Remote Desktop or LogMeIn.
 
-(Looking for Prey unattended install methods for mass deployment? [Check this article](2015-03-26-prey-unattended-install-for-mass-deployment.md).)
+(Looking for Prey unattended install methods for mass deployment? [Check this article](prey-unattended-install-for-mass-deployment.md).)
 
 ## 1. Prey for Laptops
 
@@ -48,7 +48,7 @@ The process here is like installing any other Android app:
 1. Click on the link or search the Google Play app on your device for *Prey Anti Theft*.
 2. Install Prey on the device.
 3. Enter your exiting Prey account's email and password, or create an account here.
- 
+
 Once the process is complete you'll find the phone or tablet on your [Prey account][prey-account].
 
 **This can't be done remotely.** Even though you might be able to install Prey into your stolen device from Google Play on your browser, you also need to enter your Prey email and password into the app. This is impossible if you can't physically access the lost phone or tablet.
@@ -89,7 +89,7 @@ Note: The `.log` could me missing from the file if you chose your operating syst
 
 ### OS X
 
-The Prey installer will only run on OS X 10.7 and newer. Snow Leopard or older versions of OS X don't have the required dependencies for the app to start. However, *you can still install Prey into older machines*. To do that please follow the [unattended install](2015-03-26-prey-unattended-install-for-mass-deployment.md) method.
+The Prey installer will only run on OS X 10.7 and newer. Snow Leopard or older versions of OS X don't have the required dependencies for the app to start. However, *you can still install Prey into older machines*. To do that please follow the [unattended install](prey-unattended-install-for-mass-deployment.md) method.
 
 ### Linux
 
@@ -105,7 +105,7 @@ You won't be able to add a device to your account in case you reached your devic
 
 Please use the [contact form][contact-form] from your [Prey account][prey-account]. We're always glad to help.
 
-[support-home]: # "Prey Support"
+[support-home]: /help "Prey Support"
 [prey-account]: https://panel.preyproject.com/ "Prey account"
 [download]: https://preyproject.com/download "Download Prey"
 [recoveries]: https://preyproject.com/blog/cat/recoveries "Prey recovery stories"
