@@ -71,7 +71,7 @@ The `/S` parameter makes the installation silent, though it can't be *completely
 
 Open a terminal and run the following command:
 
-    API_KEY=foobar123 sudo -E installer -pkg prey-mac-1.X.X-x86.pkg -target /
+    API_KEY=foobar123 -E sudo installer -pkg prey-mac-1.X.X-x86.pkg -target /
 
 ![Mac OS X instruction](/_images/2015-03-26-prey-unattended-install-for-mass-deployment-4.png)
 
